@@ -1,16 +1,40 @@
-### Hi there 👋
+##  GitHub de Giuli Ilustre  :computer:
 
-<!--
-**ilustregiuli/ilustregiuli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Web 
 
-Here are some ideas to get you started:
+Aqui reuno:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Alguns projetos pessoais,
+
+- Exercícios de cursos e treinamentos que realizo,
+
+- Várias "colas" para consultar posteriormente.
+
+### Tenhos bons conhecimentos em:
+
+Java    :coffee:
+
+PHP  :elephant:
+
+JavaScript   :pencil:
+
+SQL e Banco de Dados  :game_die:
+
+### Meus outros interesses:
+- Aprendizado constante :mortar_board: :books: 
+[Meu canal de programação](https://www.youtube.com/channel/UCG4QbYuAjl7fRmgZbZr0fEA)
+- Música (ouvir e fazer)  :musical_score:  :guitar:
+- Filmes de terror, supense, policial e ação :jack_o_lantern: :ghost: :gun: :bomb: 
+- Viagens :airplane:
+- Línguas :uk: :de: :jp:
+
+### Contatos:
+:envelope:   ilustre.giuli@gmail.com
+
+LinkedIn:  https://www.linkedin.com/in/giuli-gilberto-ilustre-63742252/
+
+
+
+
+
+
