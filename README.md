@@ -9,7 +9,7 @@
 
 ### Desenvolvedor Web 
 
-Aqui reuno:
+Aqui eu reúno:
 
 - Alguns projetos pessoais,
 
