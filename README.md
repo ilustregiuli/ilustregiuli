@@ -1,3 +1,5 @@
+![imagem capa](CapaPerfil_p.png)
+
 ##  GitHub de Giuli Ilustre  :computer:
 
 ### Desenvolvedor Web 
