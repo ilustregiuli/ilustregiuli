@@ -1,6 +1,11 @@
-![imagem capa](CapaPerfil_p.png)
-
 ##  GitHub de Giuli Ilustre  :computer:
+
+<div align="center">
+  
+![imagem capa](CapaPerfil_p.png)
+  
+</div>
+
 
 ### Desenvolvedor Web 
 
@@ -31,9 +36,12 @@ SQL e Banco de Dados  :game_die:
 - Línguas :uk: :de: :jp:
 
 ### Contatos:
-:envelope:   ilustre.giuli@gmail.com
+[![Gmail](https://img.shields.io/twitter/url?label=email&logo=gmail&style=social&url=http%3A%2F%2Fmailto%3Astephanyn7%40gmail.com)](mailto:ilustre.giuli@gmail.com)
 
-LinkedIn:  https://www.linkedin.com/in/giuli-gilberto-ilustre-63742252/
+[![Linkedin: giuli-gilberto-ilustre](https://img.shields.io/badge/-GiuliIlustre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giuli-gilberto-ilustre-63742252/)](https://www.linkedin.com/in/giuli-gilberto-ilustre-63742252/)
+
+[![Twitter: GiuliIlustre](https://img.shields.io/twitter/follow/GiuliIlustre?style=social)](https://twitter.com/GiuliIlustre)
+
 
 
 
