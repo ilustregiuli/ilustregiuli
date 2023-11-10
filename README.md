@@ -19,8 +19,6 @@ Aqui eu reúno:
 
 ### Tenhos bons conhecimentos em:
 
-Java    :coffee:
-
 PHP  :elephant:
 
 JavaScript   :pencil:
